@@ -1,4 +1,4 @@
-## Unit  README: Red Vs. Blue Team Project 
+## README: Red Vs. Blue Project 
 
 ### Unit Description
 
